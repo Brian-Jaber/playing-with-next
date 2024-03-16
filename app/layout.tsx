@@ -48,3 +48,5 @@ export default function RootLayout({
 // Cannot pass data down from a layout to children as props
 
 // Try not to make anything a client component unless has to be JS to interact w/ it? Keeping track of state.
+// Fetch data at render, or make a api that returns data.
+// Server components fetch 
